@@ -1,4 +1,4 @@
-👋 I'm Joshna-G  
+# Hi👋 I'm Joshna-G  
 
 ## 🚀 About Me
 - 🌱 I’m currently learning *MERN stack web development* (MongoDB, Express.js, React, Node.js).  
