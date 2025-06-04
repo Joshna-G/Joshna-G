@@ -1,4 +1,4 @@
-# Hi, I'm Joshna-G 👋
+# Hi, I'm Joshna 👋
 
 ## 🚀 About Me
 🌱 I recently completed my **MERN stack web development course** and am currently working as a **Software Developer Intern**.  
@@ -10,14 +10,19 @@
 💡 Interested in contributing to beginner-friendly and community-driven projects where I can both learn and add value.
 
 ## 🔧 Technologies & Tools
-- **Languages:** JavaScript, HTML, CSS  
-- **Frontend:** React.js, Next.js, Bootstrap  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Version Control:** Git, GitHub  
+- **Languages:** JavaScript, TypeScript,
+HTML, CSS, PHP  
+- **Frameworks & Libraries: **React, Next.js,
+Node.js, Express.js, Bootstrap, Vue.js 
+- **Database:**MySQL (optimized indexing &
+query performance), Firebase  
+- **Tools & Platforms:**Git, GitHub, VS Code,
+Postman, Socket.io, Material-UI
+- **Concepts: **RESTful APIs, WebSockets,
+UI/UX Design
 
 ## 📫 How to Reach Me
-📧 Email: [joshna242004@gmail.com]
+📧 Email: [joxhna.info@gmail.com]
 
 ## ⚡ Fun Fact
-I’m fascinated by how technology can unlock new possibilities and solve everyday challenges!
+Inspired by challenges that push me to innovate and grow as a developer!
